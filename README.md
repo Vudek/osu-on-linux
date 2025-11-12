@@ -252,7 +252,7 @@ Let's install Arch on your PC:
 
    CheatSheet:
 
-   - **AMD / ATI (open-source)** — For any AMG GPU
+   - **AMD / ATI (open-source)** — For any AMD GPU
    - **All open-source** — This choose will install all open-source from this list.
    - **Intel (open-source)** — For any Intel GPU (Integrated or Arc).
    - **Nvidia (open kernel module for newer GPU's, Turing+)** — Choose if you have modern Nvidia GPU, starting from 20xx series.
